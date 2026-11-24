@@ -21,3 +21,12 @@ Add a movie and update its viewing status.
 ## Running Locally
 
 Open `index.html` in a modern web browser.
+## Manual Testing Checklist
+
+- [ ] Add a movie with a valid release year.
+- [ ] Change its watched status and review the summary.
+- [ ] Remove the movie and confirm the total updates.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
